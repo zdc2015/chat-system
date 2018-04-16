@@ -12,3 +12,6 @@ C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\Comm
 C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\CommunicationClient.csproj.CopyComplete
 C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\CommunicationClient.exe
 C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\CommunicationClient.pdb
+C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\CommunicationClient.AddFriend.resources
+C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\CommunicationClient.Chatting.resources
+C:\Users\zdc\source\repos\CommunicationClient\CommunicationClient\obj\Debug\CommunicationClient.Main.resources

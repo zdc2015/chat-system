@@ -51,7 +51,7 @@
             this.tbpassword.Location = new System.Drawing.Point(117, 77);
             this.tbpassword.Name = "tbpassword";
             this.tbpassword.Size = new System.Drawing.Size(145, 21);
-            this.tbpassword.TabIndex = 0;
+            this.tbpassword.TabIndex = 1;
             this.tbpassword.UseSystemPasswordChar = true;
             // 
             // label1
@@ -88,7 +88,7 @@
             this.button2.Location = new System.Drawing.Point(72, 125);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 4;
+            this.button2.TabIndex = 2;
             this.button2.Text = "登录";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button1_Click);
