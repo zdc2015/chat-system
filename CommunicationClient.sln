@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationClient", "CommunicationClient\CommunicationClient.csproj", "{9FC23EF8-BE7C-4DB1-8CE1-EE0968B9D50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilLib", "UtilLib\UtilLib.csproj", "{14DBE2EE-1F8B-4254-AA6E-DE57FD3A83C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC23EF8-BE7C-4DB1-8CE1-EE0968B9D50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC23EF8-BE7C-4DB1-8CE1-EE0968B9D50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC23EF8-BE7C-4DB1-8CE1-EE0968B9D50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC23EF8-BE7C-4DB1-8CE1-EE0968B9D50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DBE2EE-1F8B-4254-AA6E-DE57FD3A83C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DBE2EE-1F8B-4254-AA6E-DE57FD3A83C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DBE2EE-1F8B-4254-AA6E-DE57FD3A83C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DBE2EE-1F8B-4254-AA6E-DE57FD3A83C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A10790-2584-432B-A93E-083CB4062393}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\zdc\source\repos\CommunicationClient\UtilLib\bin\Debug\UtilLib.dll
+C:\Users\zdc\source\repos\CommunicationClient\UtilLib\bin\Debug\UtilLib.pdb
+C:\Users\zdc\source\repos\CommunicationClient\UtilLib\obj\Debug\UtilLib.csprojResolveAssemblyReference.cache
+C:\Users\zdc\source\repos\CommunicationClient\UtilLib\obj\Debug\UtilLib.csproj.CoreCompileInputs.cache
+C:\Users\zdc\source\repos\CommunicationClient\UtilLib\obj\Debug\UtilLib.dll
+C:\Users\zdc\source\repos\CommunicationClient\UtilLib\obj\Debug\UtilLib.pdb
